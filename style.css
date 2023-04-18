@@ -1,0 +1,43 @@
+.BlockCat{
+    width: 400px;
+    border-radius: 10px;
+    height: 420px;
+    margin-top: 55px;
+    margin-left: 15px;
+    border: black;
+}
+.cat{
+    padding-top: 20px;
+    padding-left: 75px;
+    width: 240px;
+
+}
+.title{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.whiteTheme{
+    background: #000000;
+    color: black;
+}
+.darkTheme{
+    background: #000000;
+    color: white;
+}
+button{
+    width: 99px;
+    height: 30px;
+    margin-left: 150px;
+    background: linear-gradient(92.34deg, #C59B6B -9.9%, #EB9D56 31.23%, rgba(171, 100, 35, 0.703125) 71.82%, rgba(255, 255, 255, 0.99) 100.37%);
+    border-radius: 7px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.Uk{
+    position: absolute;
+    width: 35px;
+    margin-left: 260px;
+    margin-top: -50px;
+}
